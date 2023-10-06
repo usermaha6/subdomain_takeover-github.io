@@ -1,1 +1,1 @@
-# subdomain_takeover-github.io
+# subdomain_takeover.github.io
